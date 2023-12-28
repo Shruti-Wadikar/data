@@ -1,0 +1,4 @@
+this is my 1st student data :
+name : shruti
+course : data science
+mode : online
